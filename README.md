@@ -7,10 +7,8 @@ Built as a portfolio project from a real Upwork job brief.
 > **Note on substitutions.** The brief named OpenAI and GoHighLevel. Both needed a payment card that was declined during this build, so this version uses **Google Gemini** for the AI step and a **Google Sheets mock CRM**. The logic is identical, and only the AI node and the CRM nodes would change. The OpenAI and GoHighLevel versions were not built or tested.
 
 ## Demo
+[Watch the 3-minute demo video]https://drive.google.com/file/d/1Q0KRpPWK29bLmjPWR9Ox0IVHBs8XlQAi/view?usp=sharing
 
-Add a link to the demo video here (silent screen recording with captions).
-
-Add screenshots to a `screenshots` folder: the workflow canvas, the Contacts sheet, the notification email and the Execution Log tab.
 
 ## Stack
 
